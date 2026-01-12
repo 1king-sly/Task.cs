@@ -12,3 +12,4 @@ D:\WebSystems\C# tasks\obj\Debug\net9.0\refint\C#Intro.dll
 D:\WebSystems\C# tasks\obj\Debug\net9.0\C#Intro.pdb
 D:\WebSystems\C# tasks\obj\Debug\net9.0\C#Intro.genruntimeconfig.cache
 D:\WebSystems\C# tasks\obj\Debug\net9.0\ref\C#Intro.dll
+d:\WebSystems\C# tasks\obj\Debug\net9.0\C#Intro.sourcelink.json

@@ -1,4 +1,7 @@
-﻿using static StudentResults.Results;
+﻿// using static StudentResults.Results;
+using static StudentGPA.StudentGPA;
 
 
-CalculateScores();
+
+// CalculateScores();
+getGPA();
