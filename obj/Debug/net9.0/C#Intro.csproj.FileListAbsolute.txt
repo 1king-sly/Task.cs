@@ -1,0 +1,14 @@
+D:\WebSystems\C# tasks\bin\Debug\net9.0\C#Intro.exe
+D:\WebSystems\C# tasks\bin\Debug\net9.0\C#Intro.deps.json
+D:\WebSystems\C# tasks\bin\Debug\net9.0\C#Intro.runtimeconfig.json
+D:\WebSystems\C# tasks\bin\Debug\net9.0\C#Intro.dll
+D:\WebSystems\C# tasks\bin\Debug\net9.0\C#Intro.pdb
+D:\WebSystems\C# tasks\obj\Debug\net9.0\C#Intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebSystems\C# tasks\obj\Debug\net9.0\C#Intro.AssemblyInfoInputs.cache
+D:\WebSystems\C# tasks\obj\Debug\net9.0\C#Intro.AssemblyInfo.cs
+D:\WebSystems\C# tasks\obj\Debug\net9.0\C#Intro.csproj.CoreCompileInputs.cache
+D:\WebSystems\C# tasks\obj\Debug\net9.0\C#Intro.dll
+D:\WebSystems\C# tasks\obj\Debug\net9.0\refint\C#Intro.dll
+D:\WebSystems\C# tasks\obj\Debug\net9.0\C#Intro.pdb
+D:\WebSystems\C# tasks\obj\Debug\net9.0\C#Intro.genruntimeconfig.cache
+D:\WebSystems\C# tasks\obj\Debug\net9.0\ref\C#Intro.dll
